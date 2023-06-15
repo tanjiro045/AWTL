@@ -1,0 +1,1 @@
+Practical - 5 - ADO.NET - Connected & Disconnected Architecture
