@@ -1,1 +1,2 @@
 Practical - 5 - ADO.NET - Connected & Disconnected Architecture
+Precautions: Remove DataSourceid from GirdView Tag in aspx.cs file
