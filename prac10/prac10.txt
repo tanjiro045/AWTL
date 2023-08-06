@@ -1,0 +1,4 @@
+Design MVC based Webapplications
+a. Create a MVC application to demonstrate the use of Httpget and Httppost.
+
+b. Create a MVC application to Edit,Create, Delete and to display the data from the database using ADO.net Entity Model.
