@@ -1,0 +1,4 @@
+ string connstring = "Data Source=LAPTOP-LABV26J8;Initial Catalog=MCA;Integrated Security=True";
+
+
+string connectionstring = "Data Source=MCAB12-1\\SQLEXPRESS;Database=user17b;Integrated security=True";
