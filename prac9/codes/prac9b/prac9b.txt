@@ -1,0 +1,2 @@
+Design Web Application to produce and Consume a WCF Service
+b) Design an Application to  fetch data from the EMP table. Test the service and design a Web client to consume this service.
