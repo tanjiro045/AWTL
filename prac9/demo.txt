@@ -1,0 +1,8 @@
+Practical - 9
+  Design Web Application to produce and Consume a web Service 
+a) Create an XML web service that returns all the student details from the student table.
+Write an Application that uses this service to display student details in datagrid view control.
+
+
+Design Web Application to produce and Consume a WCF Service
+b) Design an Application to  fetch data from the EMP table. Test the service and design a Web client to consume this service.
