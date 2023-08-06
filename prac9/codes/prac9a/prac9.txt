@@ -1,0 +1,2 @@
+Create an XML web service that returns all the student details from the student table.
+Write an Application that uses this service to display student details in datagrid view control.
