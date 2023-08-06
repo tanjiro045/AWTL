@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MCA" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="dbo.STUDENT" Member="STUDENTs">
+    <Type Name="STUDENT">
+      <Column Name="ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NAME" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SUBJECT" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DEGREE" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
