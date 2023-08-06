@@ -1,2 +1,18 @@
 Practical - 5 - ADO.NET - Connected & Disconnected Architecture
 Precautions: Remove DataSourceid from GirdView Tag in aspx.cs file
+
+Stored Procedure
+CREATE OR ALTER PROCEDURE sunnyprod
+AS 
+SELECT * FROM STUDENT
+GO;
+
+Param Procedure
+
+CREATE OR ALTER PROCEDURE SunnyParamProcedure(
+@ID INT, @NAME NVARCHAR(50), @SUBJECT NVARCHAR(50), @DEGREE NVARCHAR(50) )
+AS
+BEGIN
+INSERT INTO MCA.dbo.STUDENT( [ID], [NAME], [SUBJECT], [DEGREE] )
+VALUES ( @ID, @NAME, @SUBJECT, @DEGREE )
+END
