@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+public partial class HF : System.Web.UI.Page
+{
+protected void Page_Load(object sender, EventArgs e)
+{
+}
+protected void Button1_Click(object sender, EventArgs e)
+{
+HiddenField1.Value = name.Text;
+HiddenField2.Value = age.Text;
+HiddenField3.Value = branch.Text;
+Label1.Text = HiddenField1.Value.ToString();
+Label2.Text = HiddenField2.Value.ToString();
+Label3.Text = HiddenField3.Value.ToString();
+}
+}
