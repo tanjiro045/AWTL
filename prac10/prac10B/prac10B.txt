@@ -1,1 +1,10 @@
-MVC
+1} Create a MVC Project
+2} Right click on Models and add ADO.NET Entity Framework
+3} Ensure Table to have primary key
+4} STUD.cs will be created in Models
+5} Right click on Controller add controller, add _layout page
+5} Inside Views -> Shared -> _layout.css
+6}  <li>@Html.ActionLink("Student", "Index", "STUDs", new { area = "" }, new { @class = "nav-link" })</li>
+Modify above line
+Start - index
+End - STUDs - db name
