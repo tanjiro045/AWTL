@@ -1,1 +1,5 @@
 . Create a MVC application to demonstrate the use of Httpget and Httppost.
+1} Add a Entity Model Framework
+2} Model.cs file will be created
+3} write code in model.cs
+4} Write code in DisplayDatacs.html
